@@ -1,0 +1,12 @@
+.Container{
+    margin: 0 auto;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    background-color: wheat;
+    padding: 15px;
+}
+button{
+    border-radius: 20px;
+    background: wheat;
+}
